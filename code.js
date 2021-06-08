@@ -12,8 +12,8 @@ WebSocket.prototype.send = function(data) {
     WebSocket.prototype.original.apply(this, [data]);
 }
 
-Made By: Paradox#7513
-Discord Server: https://discord.gg/qnQSWtvRwK
-Copyright: Paradox#7513
-Creator: Paradox#7513
+Made By: Paradox#7401
+Discord Server: https://discord.gg/CbuKtxm65Z
+Copyright: Paradox#7401
+Creator: Paradox#7401
 Team: 51 ProjectX
